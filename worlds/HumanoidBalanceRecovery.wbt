@@ -8,6 +8,8 @@ EXTERNPROTO "webots://projects/robots/robotis/darwin-op/protos/RobotisOp3.proto"
 WorldInfo {
 }
 Viewpoint {
+  orientation 0 1 0 1.5707996938995747
+  position 0 0 10
 }
 TexturedBackground {
 }
